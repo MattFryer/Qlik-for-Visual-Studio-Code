@@ -14,5 +14,5 @@ This extension adds support for Qlik scripting to VS Code.
 ## Contributors
 Thanks a lot to this project's awesome contributors for their help!
 
-* Matt Fryer (@MattFryer)
+* Matt Fryer (@QlikViewAddict)
 * Stefan Stoichev (@countnazgul)
