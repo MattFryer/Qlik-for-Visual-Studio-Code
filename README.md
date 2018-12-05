@@ -1,6 +1,6 @@
-[![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/v/Gimly81.qlik.svg)](https://marketplace.visualstudio.com/items?itemName=Gimly81.qlik)
-[![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/d/Gimly81.qlik.svg)](https://marketplace.visualstudio.com/items?itemName=Gimly81.qlik)
-[![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/r/Gimly81.qlik.svg)](https://marketplace.visualstudio.com/items?itemName=Gimly81.qlik)
+[![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/v/Gimly81.qlik.svg?logo=visual%20studio%20code&logoColor=ffffff)](https://marketplace.visualstudio.com/items?itemName=Gimly81.qlik)
+[![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/d/Gimly81.qlik.svg?logo=visual%20studio%20code&logoColor=ffffff)](https://marketplace.visualstudio.com/items?itemName=Gimly81.qlik)
+[![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/r/Gimly81.qlik.svg?logo=visual%20studio%20code&logoColor=ffffff)](https://marketplace.visualstudio.com/items?itemName=Gimly81.qlik)
 
 # Qlik for Visual Studio Code
 
